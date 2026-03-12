@@ -30,5 +30,13 @@ static int CalculateMax(int[] values)
 
 static int CalculateMin(int[] values)
 {
-    
+    int min = values[0];
+    foreach (int var in values)
+    {
+        if (min > var)
+        {
+            min= var;
+        }
+    }
+    return min;
 }
