@@ -2,3 +2,9 @@
 
 Zadanie z APBD przykładowe z gita.
 
+
+
+Odpowiedź do zadania 6: Łączone gałęzie nie były liniowe.
+
+
+
