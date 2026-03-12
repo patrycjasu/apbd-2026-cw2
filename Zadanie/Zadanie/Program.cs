@@ -6,5 +6,10 @@ Console.WriteLine("Feature 4");
 
 static double CalculateAverage(int[] values)
 {
-    
+    double sum = 0;
+    foreach (int val in values)
+    {
+        sum += val;
+    }
+    return sum / values.Length;
 }
