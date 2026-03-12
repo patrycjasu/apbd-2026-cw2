@@ -17,4 +17,13 @@ static double CalculateAverage(int[] values)
 static int CalculateMax(int[] values)
 {
     
+    int max = values[0];
+    foreach (int var in values)
+    {
+        if (max < var)
+        {
+            max = var;
+        }
+    }
+    return max;
 }
