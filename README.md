@@ -8,3 +8,9 @@ Odpowiedź do zadania 6: Łączone gałęzie nie były liniowe.
 
 
 
+\-----------------------------------
+
+
+
+
+
