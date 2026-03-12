@@ -13,3 +13,8 @@ static double CalculateAverage(int[] values)
     }
     return sum / values.Length;
 }
+
+static int CalculateMax(int[] values)
+{
+    
+}
